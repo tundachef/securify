@@ -38,11 +38,11 @@ docker run -it -v C:/Users/sentl/Documents/securify2-master/gold:/app securify /
 ```
 In this command:
 
--v C:/Users/sentl/Documents/securify2-master/gold:/app maps the 'C:\Users\sentl\Documents\securify2-master\gold' directory on your local machine to the '/app' directory inside the Docker container.
+`-v C:/Users/sentl/Documents/securify2-master/gold:/app` maps the `C:\Users\sentl\Documents\securify2-master\gold` directory on your local machine to the `/app` directory inside the Docker container.
 
 securify is the Docker image you're running.
 
-/app/gold.sol is the path to the 'gold.sol' file inside the Docker container.
+`/app/gold.sol` is the path to the `gold.sol` file inside the Docker container.
 
 Another solidity version causes the program to crash thus, the code was sent to Chatgpt on file at a time and made compatible with solidity compiler version 0.5.12 thus getting rid of this problem altogether. 
 
