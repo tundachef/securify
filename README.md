@@ -53,7 +53,7 @@ IERC20.sol, Context.sol, Ownable.sol, GoldGrinder.sol, were all put together in 
 
 Only build once with 0.5.12 and follow these steps.
 
-[To compare the live contract with Chatgpt code this tool was used](https://www.w3docs.com/tools/code-diff/#:~:text=Use%20this%20online%20free%20Code,see%20the%20output%20right%20below)
+[To compare the live contract with Chatgpt code this tool was used](https://www.w3docs.com/tools/code-diff/)
 
 ### Example Response:
 
